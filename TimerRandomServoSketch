@@ -1,6 +1,7 @@
 // Controlling a servo position using a 7 seg LED
 // LED counts from 9-0 and moves the servo randomly
 // Eric Naff http://ericnaffdesign.com
+// Fritzing Image at http://ericnaffdesign.com/timerServoSketch.jpg
  
 // Define the LED digit patters, from 0 - 9
 // Note that these patterns are for common cathode displays
