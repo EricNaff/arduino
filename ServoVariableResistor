@@ -1,5 +1,5 @@
 // Controlling a servo position using a potentiometer (variable resistor) 
-
+// Fritzing Image at http://ericnaffdesign.com/timerServoSketch.jpg
 
 #include <Servo.h> 
  
